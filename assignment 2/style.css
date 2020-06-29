@@ -1,0 +1,95 @@
+ 
+ body
+ {
+ 	background-color:#A9A9A9;
+ }
+ header
+ {
+ 	background-color:hsla(27, 100%, 50%, 0.2) ;
+ 	padding: 10px;
+	text-align: center;
+ 	font-family:verdana;
+	font-size:100%;
+ }
+
+ p
+ {
+ 	font-family:verdana;
+	font-size:100%;
+	text-align: justify;
+ }
+ h1{
+ 	text-align: center;
+ }
+ img.id1
+ {
+	width: 40px;
+	height: 35px;
+	display: inline;
+	align-content: justify;
+}
+h4{
+	display: inline;
+	font-size:30px;
+	text-align: justify;
+}
+ h2,h5
+ {
+ 
+ 	font-family:verdana;
+ 	font-size:90%;
+ }
+ h3
+ {
+ 	text-align: center;
+ }
+ nav
+ {
+ 	background-color: gray;
+ 	padding:10px;
+ 	font-family:verdana;
+ 	font-size:90%;
+ }
+ a
+ {
+ 	color: white;
+ 	text-align: center;
+ 	padding: 20px 20px;
+ 	text-decoration: none;
+	font-family:verdana;
+	font-size:90%;
+ 	display: inline;
+ }
+ a.new1
+ {
+ 	color:black;
+ 	font-family:verdana;
+ 	font-size:90%;
+ }
+ h1.n1
+ {
+ 	text-align: center;
+ 	font-family: verdana;
+ 	font-size: 100;
+ }
+ section:after
+ {
+ 	content: "";
+	display: table;
+ 	font-family:verdana;
+ 	font-size:90%;
+ 	clear:both;
+ }
+ footer
+ {
+ 	background-color:hsla(33, 100%, 88%,0.4);
+ 	padding: 15px;
+ 	font-family:verdana;
+ 	font-size:90%;
+ 	text-align: center;
+ }
+ div.container{
+	display:flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
